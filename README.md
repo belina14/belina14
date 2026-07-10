@@ -6,7 +6,7 @@
 
 <p>Currently working on:</p>
 <ul>
-<li>REST APIs</li>
+<li>APIs</li>
 <li>Databases & SQL basics</li>
 <li>CLI application design</li>
 <li>ERP module development</li>
