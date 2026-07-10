@@ -1,16 +1,13 @@
-## Hi there 👋
+## Belina Davy
 
-<!--
-**belina14/belina14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>2nd year BSc Computer Science student, specializing in Cybersecurity (Honours) at Heriot-Watt University</p>
 
-Here are some ideas to get you started:
+<p>Technical Skills: Python,Java,JavaScript,HTML,CSS,XML</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>Currently working on:</p>
+<ul>
+<li>REST APIs</li>
+<li>Databases & SQL basics</li>
+<li>CLI application design</li>
+<li>ERP module development</li>
+</ul>
